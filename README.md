@@ -8,8 +8,8 @@ https://adventofcode.com/2022
 | [1 (Part 2)](https://adventofcode.com/2022/day/1)       | Remember value in variable                    |
 | [2 (Part 1)](https://adventofcode.com/2022/day/2)       | Abstract logic flows                          |
 | [2 (Part 2)](https://adventofcode.com/2022/day/2)       | Abstract logic flows                          |
-| [3 (Part 1)](https://adventofcode.com/2022/day/3)       |                                               |
-| [3 (Part 2)](https://adventofcode.com/2022/day/3)       |                                               |
+| [3 (Part 1)](https://adventofcode.com/2022/day/3)       | Using maps                                    |
+| [3 (Part 2)](https://adventofcode.com/2022/day/3)       | Using maps                                    |
 
 ## Running Code
 
