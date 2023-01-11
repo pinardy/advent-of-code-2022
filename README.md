@@ -10,6 +10,8 @@ https://adventofcode.com/2022
 | [2 (Part 2)](https://adventofcode.com/2022/day/2)       | Abstract logic flows                          |
 | [3 (Part 1)](https://adventofcode.com/2022/day/3)       | Using maps                                    |
 | [3 (Part 2)](https://adventofcode.com/2022/day/3)       | Using maps                                    |
+| [4 (Part 1)](https://adventofcode.com/2022/day/4)       | check if complete subset                      |
+| [4 (Part 2)](https://adventofcode.com/2022/day/4)       | check if intersect                            |
 
 ## Running Code
 
