@@ -12,6 +12,8 @@ https://adventofcode.com/2022
 | [3 (Part 2)](https://adventofcode.com/2022/day/3)       | Using maps                                    |
 | [4 (Part 1)](https://adventofcode.com/2022/day/4)       | check if complete subset                      |
 | [4 (Part 2)](https://adventofcode.com/2022/day/4)       | check if intersect                            |
+| [5 (Part 1)](https://adventofcode.com/2022/day/5)       | manipulating arrays like a stack (push, pop)  |
+| [5 (Part 2)](https://adventofcode.com/2022/day/5)       | manipulating arrays (splice, concat)          |
 
 ## Running Code
 
